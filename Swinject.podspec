@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/Swinject/Swinject"
   s.license          = 'MIT'
   s.author           = 'Swinject Contributors'
-  s.source           = { :git => "https://github.com/Swinject/Swinject.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/andreybog/Swinject.git", :tag => s.version.to_s }
 
   s.source_files = 'Sources/**/*.{swift,h}'
   s.ios.deployment_target = '8.0'
